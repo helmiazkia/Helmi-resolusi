@@ -1,5 +1,8 @@
 helmi rencana
 -Mobile dev
 -php backand bisa laravel
+^ angular js
+^ react
 java script saya ingin bisa framework salah satunya
+laravel
 pengin jadi hekel
