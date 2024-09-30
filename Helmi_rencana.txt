@@ -1,4 +1,4 @@
 helmi rencana
 -Mobile dev
--php backand
-java script
+-php backand bisa laravel
+java script saya ingin bisa framework salah satunya
