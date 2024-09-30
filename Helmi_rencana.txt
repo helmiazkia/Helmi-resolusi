@@ -1,0 +1,4 @@
+helmi rencana
+-Mobile dev
+-php backand
+java script
