@@ -3,4 +3,4 @@ helmi rencana
 -php backand bisa laravel++
 java script saya ingin bisa framework salah satunya belajar view
 pengin jadi hekel
--materi pyton
+-materi pytonnoe
