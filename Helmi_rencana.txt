@@ -1,8 +1,8 @@
 helmi rencana
 -Mobile dev
--php backand bisa laravel
-^ angular js
-^ react
-java script saya ingin bisa framework salah satunya
-laravel
+
+-php backand bisa laravel++
+java script saya ingin bisa framework salah satunya belajar view
+
 pengin jadi hekel
+-materi pytonnoe
